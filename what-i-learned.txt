@@ -1,0 +1,4 @@
+From this assignment, i learned how to create store files in the cloud and
+I also realized how files are shared in the cloud, for example when you need to share a generated file to a client
+you can use pre signed url to provide access to that specific file and also put time limits.
+I also noticed that AWS and Azure usage is the same and its just the naming that is different.
